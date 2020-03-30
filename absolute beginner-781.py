@@ -3,4 +3,4 @@ if(n==0):
     print("NULL")
 else:
     l=[str(i) for i in range(9,(9*n)+1,9)]
-    print("".join(l))
+    print(" ".join(l))
